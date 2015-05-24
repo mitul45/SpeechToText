@@ -1,0 +1,4 @@
+#JSGF 1.0 ISO8559-1;
+grammar javax.speech.demo;
+
+public <word> = note | good | hello | control | how | you | earth | fine | me;
